@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the confession of VVilliam Lord Russel, with the manner of his behaviour in prison, and the Christian speeches he made at the place of execution in Lincolns-Inn Fields, where he was beheaded for high-treason, against his Majesty. On Saturday the 21st. of July, 1683.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01352</idno>
+            <idno type="STC">Wing A265A</idno>
+            <idno type="STC">ESTC R176280</idno>
+            <idno type="EEBO-CITATION">52614487</idno>
+            <idno type="OCLC">ocm 52614487</idno>
+            <idno type="VID">175739</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01352)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175739)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2749:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the confession of VVilliam Lord Russel, with the manner of his behaviour in prison, and the Christian speeches he made at the place of execution in Lincolns-Inn Fields, where he was beheaded for high-treason, against his Majesty. On Saturday the 21st. of July, 1683.</title>
+                  <author>Russell, William, Lord, 1639-1683.</author>
+               </titleStmt>
+               <extent>2 [i.e 4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Coniers,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"Licensed and entred, according to order."</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Printer from colophon.</note>
+                  <note>Error in pagination: p. 4 misnumbered p. 2.</note>
+                  <note>Imperfect: print show-through with some loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Russell, William, --  Lord, 1639-1683 --  Death and burial --  Early works to 1800.</term>
+               <term>Dying declarations --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175739:1" rendition="simple:additions"/>
+            <head>AN ACCOUNT OF THE CONFESSION OF VVilliam Lord Ruſſel, With the manner of his Behaviour in Priſon, and the Chriſtian Speeches he made at the Place of EXECUTION IN Lincolns-Inn Fields, Where he was Beheaded for High-Treaſon, <hi>Againſt His</hi> MAJESTY. On <hi>Saturday</hi> the 21ſt. of <hi>July,</hi> 1683.</head>
+            <p>Licenſed and Entred, according to Order.</p>
+            <p>THe continual diſcoveries of Horrid Plots is enough to diſcourage Malignant Spirits from their Progreſs in Iniquity, till Divine Ju<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tice makes a ſeizure of their offending faculties; nor will the ever-ſeeing Eye of Heaven wink at ſuch Enormities, as we too often are made acquainted with; how doth dayly and wofull experience tell us the dangers and difficulties of Conſpiracy! yet, notwithſtanding, ſuch
+<pb n="2" facs="tcp:175739:2"/>is the impudence of ſome diſſatisfied perſons, that they neither can, nor will, deſiſt from ſeeking their own ruines, by contriving their own overthrow. Trea<g ref="char:EOLhyphen"/>ſon, above all things, in the eye of God and Man, is moſt deteſtable; and as ſeldome goes unrequited, as any tranſgreſſion whatſoever; but ſuch a vain thing is man, that t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e hopes of advancement, and the ſelf-pro<g ref="char:EOLhyphen"/>miſe of honour corrupts the mind, and debauches the ſenſes of too many in our Age: And ſome (never ſati<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fied with the Bleſſings of the Almighty) aſpire to that heigth, which in the concluſion meets with the greateſt fall; as you may obſerve by theſe ſub<g ref="char:EOLhyphen"/>ſequent Lines:</p>
+            <p>It is not long ſince my Lord <hi>Ruſſel</hi> had the repute of a noble, brave, and generous Gentleman, whoſe deportment (before this ſnare he was drawn into was by all commended; no Gentleman could have a bet<g ref="char:EOLhyphen"/>ter <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eport than this unfortunate Lord, now as much decry'd by his fatall concern. But yet, as he hath been an Offender againſt his moſt gracious Majeſty, by the ſubtile inſinuation of long-headed States-men, ſo we hope that his ſincere Penitence may procure his Pardon in the Court of Heaven.</p>
+            <p>AFter the Tryals of <hi>Mr. Walcot, Mr. Rouſe,</hi> and <hi>Hone,</hi> was Arraigned the Lord <hi>Ruſſel;</hi> who deſired longer time, in order, to prepare for his Tryal, but it was not allowed of by the Court: then be ex<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>epted againſt the Jurors, as ſuppoſing them not to be Free-holders, Inhabiting within the City of <hi>London,</hi> and therefore deſired counſel to be aſſigned him, to debate it as matter of Law, which was accordingly granted him; and Mr. <hi>Holt, Mr. Poluxphen,</hi> and <hi>Mr. Ward</hi> were allowed him as counſel to debate the matter, whoſe opinions, after many arguments between the King's Councel and them, they were over-ruled by by the Cou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t; whereupon the Jury was called over, and the Priſoner challenged about thirty of them, but at laſt twelve of them were ſworn, and the Indictment read, the ſubſtance were to this effect: That <hi>William
+<pb n="3" facs="tcp:175739:2"/>Ruſſel</hi> 
+               <abbr>Eſq</abbr> (For ſo he was then ſtiled) together with <hi>James</hi> Duke of <hi>Monmouth, Ford</hi> Lord <hi>Gray,</hi> Sir <hi>Thomas Armſtrong,</hi> and one <hi>Ferguſon,</hi> and others, had conſpired to Levy War and Rebellion in the Kingdom of <hi>England,</hi> to compaſs the death of <hi>His Majeſty,</hi> and to make a mi<g ref="char:EOLhyphen"/>ſerable ſlaughter amongſt the Subjects of our Lord t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e King, <hi>&amp;c.</hi>
+            </p>
+            <p>To this Indictment He having Pleaded not Guilty, Mr. <hi>North</hi> opened the matter of Fact, and was ſeconded by Mr. <hi>Attorney General,</hi> who at large declared the Hainouſneſs of the Crime, which in Evidence, was to be given againſt the Noble Lord t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Priſoner at the Bar, which was alſo inſiſted upon by Mr. <hi>Solici<g ref="char:EOLhyphen"/>tor General.</hi> After which, Coll. <hi>Rumſey</hi> was Sworn, who depo<g ref="char:EOLhyphen"/>ſed, That the Duke of <hi>Monmouth,</hi> the Lord <hi>Ruſſel, Sir Tho Arm<g ref="char:EOLhyphen"/>ſtrong,</hi> and divers others, being at one Mr. <hi>Shepherds a Vintener,</hi> in the Pariſh of St. <hi>Nicholas Baſhaw,</hi> he was ſent to them by the Earl of <hi>Shaftsbury,</hi> to know what forwardneſs they were in, as to an Inſurrection, to which he received anſwer, that Mr. <hi>Trenchard</hi> who had promiſed to raiſe 1000 Foot and 4000 Horſe, to be ai<g ref="char:EOLhyphen"/>ding in the Deſign, had certified them by a Letter, that he could not ſo ſoon effect it as was required; for that the perſons he deſi<g ref="char:EOLhyphen"/>red to allure to his intereſt, would not ruſh upon a Deſign e're they had provided for their Families, and that the Earl of <hi>Shaftsbury</hi> muſt be contented, at which the Earl ſeemed much diſaffected. He further depoſed, that divers Conſults had been held, in order to the raiſing men in divers places, and that an Inſurrection was to have been on the 19th. of <hi>November:</hi> and that he <hi>viz.</hi> Collonel <hi>Ru<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſay</hi> was to have been a Commander at <hi>Briſtol</hi> &amp; the Duke of <hi>Mo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h, Grey,</hi> &amp; <hi>Armſtrong</hi> of the <hi>Muſe</hi> and <hi>Savoy.</hi>
+            </p>
+            <p>This depoſition made, the Lord <hi>Howard</hi> of <hi>Eſtrith</hi> was Sworn, Who de<g ref="char:EOLhyphen"/>cla<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed the whole Conſpiracy at large from time to time, how the Plot was carryed on by the Earl of <hi>Shaftshury</hi> in chief, and that he had declared his diſſatisfaction in the coldneſs of the Duke of <hi>Monmouth</hi> &amp; other Lords to joyn wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h him; and that he had 10000 Men in the City at his beck; and ſeeing things were ſo far advanced, he would cauſe the deſign to be put in Execution: and that divers Meſſages paſſed between the Earl and the Lords in relation to put<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing off the deſign longer; which at laſt was from time to time put off, till the Earl doubting his ſafety, fled into <hi>Holland,</hi> where he d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed; after which a Council of Six were conſtituted, who were the Duke of <hi>Monmouth,</hi> the Earl of <hi>Eſſex,</hi> the Lord <hi>Ruſſel,</hi> the Lord <hi>Howard,</hi> (the n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w Witneſs,) Mr. <hi>Sidny,</hi> and Mr. <hi>Hambden,</hi> the younger, who were to determine a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l matters as to the Inſurrection; and that they to his knowledg met at <hi>Hambden</hi>'s Houſe, and at the Houſe of the Priſoner, to debate about carrying on the Deſign, and that <hi>Aaron Smith</hi> was ſent into <hi>Scotland</hi> to perſuade the Gentry to Riſe there.</p>
+            <p>The next that gave Evidence was Mr. <hi>Shephard</hi> a Vintner, living in the Pariſh of St. <hi>Nicholas Baſhaw,</hi> who depoſed, That Mr. <hi>Ferguſon</hi> came to him in the Name of the Duke of <hi>Monmouth,</hi> and alſo named ſeveral perſons that were to come to his Houſe; deſiring a private Room, which they had accordingly; and that the Lord <hi>Ruſſel</hi> was there: And that at that time a
+<pb n="2" facs="tcp:175739:3"/>diſc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urſe hapned about an Inſurrection, and a Declaration was read, in or<g ref="char:EOLhyphen"/>der to a Relation of the grievances of the Nation, tending to a Riſing. <hi>&amp;c.</hi>
+            </p>
+            <p>During the time of his Impriſonment, ſince he was Sentenced to Death, he ſpent moſt part of his time in meditation and Prayer and other holy exerciſes, have had conference with ſeveral eminent Divines of the Church of <hi>England,</hi> in order to his preparation for Death and a happy Eternity, On <hi>Friday</hi> the day before his Execution, his Lady and his Children atten<g ref="char:EOLhyphen"/>ded with ſeveral of his ſervants came to take their laſt farwel of him in pri<g ref="char:EOLhyphen"/>ſon, only his Lady (we are informed) ſtayed with him all night, to take part in the Agony of her beloved Lord in the laſt night of his being in this world, which was ſpent in Prayer and heavenly Conferences in order to his eternal ſtate.</p>
+            <p>In this Heavenly manner did he prepare for his great change, and with a thouſand reflections upon his late tranſactions paſt away the tedious night, till the dawning of the laſt day he was ever to ſee in this world: and then with a redoubled fervency he renewed his Divine Petitions, hum<g ref="char:EOLhyphen"/>bly beſeeching his bleſſed Saviour to commiſerate his diſtreſs, and take him into his everlaſting favour, which is the only happineſs that ſinful man can deſire to injoy: It was much to be taken notice of what ſuddain changes ap<g ref="char:EOLhyphen"/>peared in hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> countenance, when ſometimes calling to mind his miſpent time, he ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emed to be caſt down; and an a ſuddain was raiſed again at the thoughts and aſſurance of Chriſt's everlaſting Love, on which he firmly grounded his never-failing hope.</p>
+            <p>On <hi>Saturday</hi> morning being the 21ſt. of <hi>July,</hi> he was conveyed in a coach accompanied with two Reverend Divines, Dr. <hi>T<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lorſon,</hi> and Dr. <hi>Burnet,</hi> from Captain <hi>Richardſon</hi>'s Houſe to <hi>Lincolns-Inn Fields,</hi> where there was a Scaffold built on purpoſe for his Execution, where, when he came, he be<g ref="char:EOLhyphen"/>haved himſelf with ſo much civility in his deportment, that he moved the Spectators to great pitty, all lamenting his ſad ſtate, and grieving that he ſhould be ſo ſtrangely drawn in to this praeminary: He took no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ice of the great Aſſembly that came there to behold that ſad ſpectactle, which in a lit<g ref="char:EOLhyphen"/>tle time was to be preſented to their watry eyes; every particular perſon as much applauding his Behaviour as condemning his evil Conſpiracy, which for all I can hear was the onely Crime that ever he was known to be guilty of in ſo groſs a nature. After a fine Oration made to the people, the particulars whereof we cannot, as yet, give you a Juſt Account of, by reaſon of the multitude of ſorrowful Spectators that hindred the hearing of what was ſaid, but after ſome conference with two Reverend Di<g ref="char:EOLhyphen"/>vines, he made Preparation for the other World, and ſo went to Prayer, beſeeching God in his great mercy and pitty to take him into his everlaſt<g ref="char:EOLhyphen"/>ing Kingdome; and having given ſome ſhort Admonition to Loyalty, he freely ſubmitted his Head to the Block, when the Executioner ſoon ſepara<g ref="char:EOLhyphen"/>ted his Head from his Body, while his Soul, it is hoped, flew to eternal happineſs.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for J. <hi>Coniers.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
